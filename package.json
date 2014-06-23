@@ -1,0 +1,11 @@
+{
+	"name": "ApiRest",
+	"version": "0.0.1",
+	"description": "Ejemplo de ApiRest",
+	"main": "server.js",
+	"dependencies": {
+		"express": "latest",
+		"mongoose": "latest",
+		"body-parser": "latest"
+	}
+}
